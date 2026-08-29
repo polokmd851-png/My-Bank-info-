@@ -1,0 +1,7 @@
+{
+  "name": "Bangladesh Banks Telegram Bot Server",
+  "description": "টেলিগ্রাম বট সার্ভার ও বাংলাদেশের সকল ব্যাংকের তথ্যভাণ্ডার (Helpline, Routing, Swift Code, bKash/NPSB Transfer, Branch Info & Live Bot Simulator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
